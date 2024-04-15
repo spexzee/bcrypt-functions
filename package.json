@@ -1,0 +1,14 @@
+{
+    "name": "bcrypt-functions",
+    "version": "1.0.1",
+    "description": "bcrypt functions",
+    "main": "bcryptFunctions.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Spexzee | Abu",
+    "license": "ISC",
+    "dependencies": {
+        "bcrypt": "^5.0.1"
+    }
+}
